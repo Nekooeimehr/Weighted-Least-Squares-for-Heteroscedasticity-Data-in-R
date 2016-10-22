@@ -1,0 +1,1 @@
+# Weighted-Least-Squares-for-Heteroscedasticity-Data-in-R-
